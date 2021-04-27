@@ -2,10 +2,10 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
+title: SongChain Blog
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+# disqusShortname: hugo-theme-stack
 
 # GA Tracking ID
 googleAnalytics:
@@ -26,7 +26,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2021
         customText:
 
     dateFormat:
@@ -34,8 +34,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 
+        subtitle: Simplifying the NFT process for musicians.
         avatar:
             local: true
             src: img/avatar.png
@@ -43,11 +43,11 @@ params:
     article:
         math: false
         license:
-            enabled: true
+            enabled: false
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         utterances:
