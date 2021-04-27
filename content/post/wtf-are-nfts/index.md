@@ -7,8 +7,7 @@ categories = [
     "NFT-Education"
 ]
 tags = [
-    "education",
-    "NFTs",
+    "education"
 ]
 +++
 
