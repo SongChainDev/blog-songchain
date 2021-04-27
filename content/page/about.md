@@ -11,4 +11,4 @@ menu:
         pre: user
 ---
 
-We <3 independent musicians.
+We <3 independent musicians. t
