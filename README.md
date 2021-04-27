@@ -1,1 +1,1 @@
-Example site modified from https://github.com/gohugoio/hugoBasicExample
+Blog site for SongChain. Based on Stack theme for Hugo.
