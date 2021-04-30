@@ -116,6 +116,11 @@ menu:
           url: /
           weight: -100
           pre: home
+        - identifier: arrow-back
+          name: SongChain Main Site
+          url: https://songcha.in
+          weight: -100
+          pre: arrow-back
 
 related:
     includeNewer: true
