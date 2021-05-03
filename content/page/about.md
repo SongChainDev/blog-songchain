@@ -1,5 +1,5 @@
 ---
-title: About SongChain
+title: About
 description: The easiest way for independent musicians to mint NFTs.
 aliases:
   - about-us
