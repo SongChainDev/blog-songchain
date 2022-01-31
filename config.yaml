@@ -1,4 +1,4 @@
-baseurl: https://blog.songcha.in
+baseurl: https://songchaindev.github.io/blog-songchain
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
