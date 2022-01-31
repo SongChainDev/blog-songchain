@@ -1,4 +1,6 @@
 baseurl: https://songchaindev.github.io/blog-songchain
+relativeURLs: true
+canonifyURLs: true
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
