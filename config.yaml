@@ -4,7 +4,7 @@ canonifyURLs: true
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: SongChain Blog
+title: SongChain
 
 # Change it to your Disqus shortname before using
 # disqusShortname: hugo-theme-stack
@@ -37,9 +37,9 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Simplifying the NFT process for musicians.
+        subtitle: Organize the night of your life
         avatar:
-            local: true
+            local: false
             src: img/avatar.png
 
     article:
