@@ -1,1 +1,1 @@
-Blog site for SongChain. Based on Stack theme for Hugo.
+Site for SongChain. Based on Stack theme for Hugo.
