@@ -37,10 +37,10 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Organize the night of your life
+        subtitle: Book the time of your life
         avatar:
-            local: false
-            src: img/avatar.png
+            local: true
+            src: avatar-alt-3.png
 
     article:
         math: false
@@ -118,11 +118,6 @@ menu:
           url: /
           weight: -100
           pre: home
-        - identifier: arrow-back
-          name: Main Site
-          url: https://songcha.in
-          weight: -100
-          pre: arrow-back
 
 related:
     includeNewer: true

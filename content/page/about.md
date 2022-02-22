@@ -1,9 +1,8 @@
 ---
-title: About
-description: The easiest way for independent musicians to mint NFTs.
+title: About SongChain
+description: The easiest way to book the night of your dreams.
 aliases:
   - about-us
-  - about-hugo
   - contact
 menu:
     main: 
@@ -11,4 +10,4 @@ menu:
         pre: user
 ---
 
-We <3 independent musicians.
+We <3 student performers.

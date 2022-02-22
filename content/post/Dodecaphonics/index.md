@@ -3,6 +3,9 @@ author = "Dodecaphonics"
 title = "The Dodecaphonics"
 date = "2022-02-14"
 description = "Dartmouth's oldest and premier gender-inclusive a cappella group"
+categories = [
+    "A Capella"
+]
 +++
 
 Founded in 1984, the Dodecaphonics are Dartmouth's oldest and premier gender-inclusive a cappella group with members from around the globe. The Dodecaphonics have been recognized by Best of College A Cappella, have performed at the White House, and have been ICCA semifinalists multiple times. They perform a wide range of music, including pop, R&B, country, indie, and they also perform holiday classics for their annual winter tour.
@@ -36,3 +39,5 @@ Founded in 1984, the Dodecaphonics are Dartmouth's oldest and premier gender-inc
 * Say It, Flume ft. Tove Lo
 * Shape of You, Ed Sheeran
 * Dartmouth Traditionals (Alma Mater, Twilight Song)
+
+![Dodecaphonics Photo](/p/the-dodecaphonics/img/dodecs.jpg)
